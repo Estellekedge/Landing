@@ -1,0 +1,115 @@
+/* Début*/
+
+body {
+    font-family: 'Overpass', sans-serif;
+    line-height: 1.6;
+  }
+  
+  .banner {
+    background-color: #4760e1;
+    color: #f09fce;
+    text-align: center;
+    padding: 50px 20px;
+    border-radius: 15px;
+  }
+  
+  .banner h1 {
+    font-family: 'Chivo', sans-serif;
+    font-size: 3em;
+    color: #fff;
+  }
+  
+  .banner h3 {
+    font-size: 1.5em;
+    margin-top: 20px;
+  }
+  
+  .banner a {
+    display: inline-block;
+    background-color: #fff;
+    color: #333;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+  }
+  
+  .Medidate {
+    text-align: center;
+    padding: 50px 20px;
+  }
+  
+  .Medidate h2 {
+    font-size: 2em;
+    margin-bottom: 30px;
+  }
+  
+  .card {
+    display: inline-block;
+    vertical-align: top;
+    width: 300px;
+    padding: 20px;
+    margin: 0 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card img {
+    border-radius: 5px;
+    max-width: 100%;
+    width: 400px;
+    height: 400px;
+  }
+  
+  .card h5 {
+    font-size: 1.2em;
+  margin-top: 20px;
+  }
+  
+  .card p {
+    margin-top: 10px;
+  }
+  
+  footer {
+    background-color: #f09fce;
+    color: #fff;
+    text-align: center;
+    padding: 50px 20px;
+    border-radius: 15px;
+  }
+  
+  footer h3 {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+  }
+  
+  .contact-section,
+  .newsletter-section {
+    margin-bottom: 30px;
+  }
+  
+  .contact-section input,
+  .contact-section textarea,
+  .newsletter-section input {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .contact-section button,
+  .newsletter-section button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #4760e1;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+  }
+  body {
+    cursor: url(icons8-woman-in-lotus-position-48.png), auto;
+}
